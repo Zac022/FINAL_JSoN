@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{011FD23B-51A3-8B68-8E5C-98E573E22A64}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WorkoutManager.cs">
+    <Files>
+      <File FileName="Assets/WorkoutManager.cs" Line="75" Column="1" />
+      <File FileName="Assets/Ball.cs" Line="14" Column="1" />
+      <File FileName="Assets/WorkoutButton.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/WorkoutManager.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FInal" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WorkoutManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f208424-6560-432d-a527-04cc7810a364" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
